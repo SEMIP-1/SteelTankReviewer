@@ -1,3 +1,6 @@
 <Solution>
   <Project Path="SteelTankReviewer.Api/SteelTankReviewer.Api.csproj" />
+  <Project Path="SteelTankReviewer.Application/SteelTankReviewer.Application.csproj" Id="93a2e3ab-a70e-4171-ba1b-474c1bd6ce0d" />
+  <Project Path="SteelTankReviewer.Domain/SteelTankReviewer.Domain.csproj" Id="81e6e24e-7632-4feb-b1b4-85c1938e40ad" />
+  <Project Path="SteelTankReviewer.Infrastructure/SteelTankReviewer.Infrastructure.csproj" Id="fdf86da3-ad8b-46b0-8676-04c55a208188" />
 </Solution>
