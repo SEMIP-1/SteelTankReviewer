@@ -1,14 +1,14 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
-    <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\SteelTankReviewer.Application\SteelTankReviewer.Application.csproj" />
-    <ProjectReference Include="..\SteelTankReviewer.Infrastructure\SteelTankReviewer.Infrastructure.csproj" />
+    <ProjectReference Include="..\SteelTankReviewer.Domain\SteelTankReviewer.Domain.csproj" />
   </ItemGroup>
 
 </Project>
